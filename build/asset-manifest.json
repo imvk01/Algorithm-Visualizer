@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/AlgorithmVisualizer/static/css/main.1a64b7b6.css",
+    "main.js": "/AlgorithmVisualizer/static/js/main.c9d28f08.js",
+    "static/js/377.bee921e2.chunk.js": "/AlgorithmVisualizer/static/js/377.bee921e2.chunk.js",
+    "static/media/graph.png": "/AlgorithmVisualizer/static/media/graph.6e6849d509319f9d8c82.png",
+    "static/media/queen.png": "/AlgorithmVisualizer/static/media/queen.fa0912a4c828588b9614.png",
+    "static/media/turing.jpg": "/AlgorithmVisualizer/static/media/turing.ab68ef09f192a51b95e4.jpg",
+    "static/media/Puzzle.jpg": "/AlgorithmVisualizer/static/media/Puzzle.8c0c39d95f61dd1813d0.jpg",
+    "static/media/convexHull.png": "/AlgorithmVisualizer/static/media/convexHull.2720e7cd133391ce9fcc.png",
+    "static/media/prime.jpeg": "/AlgorithmVisualizer/static/media/prime.3a87430630e315f79111.jpeg",
+    "static/media/roboto-all-400-italic.woff": "/AlgorithmVisualizer/static/media/roboto-all-400-italic.63782d1445ad031af14d.woff",
+    "static/media/roboto-all-400-normal.woff": "/AlgorithmVisualizer/static/media/roboto-all-400-normal.b5a0a0df312d3423493b.woff",
+    "static/media/sort.png": "/AlgorithmVisualizer/static/media/sort.117e08fce31ddb4212d1.png",
+    "static/media/Recursion.png": "/AlgorithmVisualizer/static/media/Recursion.960c96d22fd68a8492c7.png",
+    "static/media/recursive sorting.png": "/AlgorithmVisualizer/static/media/recursive sorting.2443d10ea88e250b34d1.png",
+    "static/media/binaryTree.png": "/AlgorithmVisualizer/static/media/binaryTree.6d8ce938b1ef945de5fb.png",
+    "static/media/roboto-latin-400-italic.woff2": "/AlgorithmVisualizer/static/media/roboto-latin-400-italic.d022bc70dc1bf7b3425d.woff2",
+    "static/media/roboto-cyrillic-ext-400-italic.woff2": "/AlgorithmVisualizer/static/media/roboto-cyrillic-ext-400-italic.c30985e07ee67f55f3e8.woff2",
+    "static/media/roboto-latin-400-normal.woff2": "/AlgorithmVisualizer/static/media/roboto-latin-400-normal.176f8f5bd5f02b3abfcf.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/AlgorithmVisualizer/static/media/roboto-cyrillic-ext-400-normal.dd55ea0a2e90d5d86e15.woff2",
+    "static/media/roboto-latin-ext-400-italic.woff2": "/AlgorithmVisualizer/static/media/roboto-latin-ext-400-italic.5ed4cf182892091e3b75.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/AlgorithmVisualizer/static/media/roboto-latin-ext-400-normal.dcc07bcfcd475f34f20b.woff2",
+    "static/media/roboto-cyrillic-400-italic.woff2": "/AlgorithmVisualizer/static/media/roboto-cyrillic-400-italic.7270d0dbb41cca30909b.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/AlgorithmVisualizer/static/media/roboto-cyrillic-400-normal.3605d18d8a4ce5bd39c3.woff2",
+    "static/media/roboto-greek-400-italic.woff2": "/AlgorithmVisualizer/static/media/roboto-greek-400-italic.aeaac920d76d2f3697ca.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/AlgorithmVisualizer/static/media/roboto-greek-400-normal.352cc77aaed5208ce13c.woff2",
+    "static/media/roboto-vietnamese-400-italic.woff2": "/AlgorithmVisualizer/static/media/roboto-vietnamese-400-italic.d8e5b781ee65ffb7d167.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/AlgorithmVisualizer/static/media/roboto-vietnamese-400-normal.52cebac009baf5592e7d.woff2",
+    "static/media/roboto-greek-ext-400-italic.woff2": "/AlgorithmVisualizer/static/media/roboto-greek-ext-400-italic.26c1478a1bb6b2c2c6b0.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/AlgorithmVisualizer/static/media/roboto-greek-ext-400-normal.bc7ace6e50c7d9d4d959.woff2",
+    "index.html": "/AlgorithmVisualizer/index.html",
+    "main.1a64b7b6.css.map": "/AlgorithmVisualizer/static/css/main.1a64b7b6.css.map",
+    "main.c9d28f08.js.map": "/AlgorithmVisualizer/static/js/main.c9d28f08.js.map",
+    "377.bee921e2.chunk.js.map": "/AlgorithmVisualizer/static/js/377.bee921e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a64b7b6.css",
+    "static/js/main.c9d28f08.js"
+  ]
+}
